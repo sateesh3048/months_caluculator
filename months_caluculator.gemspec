@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Sateesh Kambhampati"]
   s.email       = ["sateesh.k09@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = "Purpose is to caluculate exact number of months between two dates"
+  s.description = "A simple gem to caluculate exact number of months"
 
   s.rubyforge_project = "months_caluculator"
 
